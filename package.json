@@ -1,0 +1,14 @@
+{
+  "name": "diplom",
+  "version": "1.0.0",
+  "description": "app for newcomers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Volodymyr Bureiko",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
